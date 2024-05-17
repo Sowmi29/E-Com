@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "893929183119",
+    "project_id": "shopping-2619c",
+    "storage_bucket": "shopping-2619c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893929183119:android:946a26c9500ed829985dfa",
+        "android_client_info": {
+          "package_name": "com.example.e_com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8QJ8R5SLKMgWv-Z6GSmmcOOCXZSoMl98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893929183119:android:008ef8da19dadb74985dfa",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8QJ8R5SLKMgWv-Z6GSmmcOOCXZSoMl98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893929183119:android:b07b7e54d318e4f4985dfa",
+        "android_client_info": {
+          "package_name": "com.example.ecom1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8QJ8R5SLKMgWv-Z6GSmmcOOCXZSoMl98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
